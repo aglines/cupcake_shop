@@ -1,0 +1,18 @@
+h1.foo{
+  text-align: center;
+  font-size: 30px;
+  text-shadow: 1px 1px 10px black;
+}
+
+p.flashy{
+  font-weight: bolder;
+  color: red;
+  font-style: italic;
+}
+
+p.best{
+  text-shadow:  1px 1px 20px red;
+  color: black;
+  font-size: 25px;
+  t
+}
